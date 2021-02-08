@@ -282,6 +282,12 @@
                 <string>#F8F8F0</string>
             </dict>
         </dict>
+        <!-- inline diffs -->
+        <dict><key>scope</key><string>diff.deleted.char</string>  <key>settings</key><dict><key>background</key><string>#f92672</string>  <key>foreground</key><string>#272822</string></dict></dict>
+        <dict><key>scope</key><string>diff.deleted</string>       <key>settings</key><dict><key>background</key><string>#f92672B3</string><key>foreground</key><string>#272822</string></dict></dict>
+        <dict><key>scope</key><string>diff.inserted.char</string> <key>settings</key><dict><key>background</key><string>#a6e22e</string>  <key>foreground</key><string>#272822</string></dict></dict>
+        <dict><key>scope</key><string>diff.inserted</string>      <key>settings</key><dict><key>background</key><string>#a6e22eB3</string><key>foreground</key><string>#272822</string></dict></dict>
+    <!--
     </array>
     <key>uuid</key>
     <string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
