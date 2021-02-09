@@ -20,7 +20,7 @@
                 <key>lineHighlight</key>
                 <string>#313339</string>
                 <key>selection</key>
-                <string>#EE7B29</string>
+                <string>#44464F</string>
             </dict>
         </dict>
         <dict>
@@ -303,7 +303,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#C30D19</string>
+                <string>#EA3D54</string>
             </dict>
         </dict>
         <dict>
@@ -314,7 +314,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#009933</string>
+                <string>#78BD65</string>
             </dict>
         </dict>
         <dict>
